@@ -1,5 +1,5 @@
 # Report
 
-This directory contains the complete security assessment report prepared during the authorized web application security assessment.
+The complete assessment report is not included in this public repository because it contains organization-specific security findings.
 
-The report documents the assessment methodology, findings, proof-of-concepts (PoCs), impact analysis, CVSS scoring, and remediation recommendations.
+This repository focuses on the assessment methodology, testing workflow, tools used, and general security recommendations while following responsible disclosure practices.
